@@ -16,7 +16,7 @@ body {
 /* Header Styling */
 header {
   text-align: center;
-  background-color: #2e86de;
+  background-color: #1f0383;
   color: white;
   padding: 25px 15px;
 }
@@ -44,7 +44,7 @@ header p {
 .form-section h2 {
   text-align: center;
   margin-bottom: 20px;
-  color: #2e86de;
+  color: #1f0383;
 }
 
 form {
@@ -68,7 +68,7 @@ form input {
 form button {
   margin-top: 20px;
   padding: 12px;
-  background-color: #2e86de;
+  background-color: #00e47d;
   color: white;
   border: none;
   border-radius: 6px;
@@ -78,7 +78,7 @@ form button {
 }
 
 form button:hover {
-  background-color: #1b4f72;
+  background-color: #139f60;
 }
 
 /* Display Section Styling */
@@ -91,7 +91,7 @@ form button:hover {
 .display-section h2 {
   text-align: center;
   margin-bottom: 20px;
-  color: #2e86de;
+  color: #1f0383;
 }
 
 #studentList {
